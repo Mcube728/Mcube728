@@ -1,6 +1,6 @@
 # Hello, I'm Mikhail
 
-I'm a computer science Student, currently learning about Cybersecurity
+I'm a computer science Student, currently learning about Cybersecurity.
 
 [![](https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white')](https://drive.google.com/file/d/1GpWxC2E6V7td1xlzxwZqKW4KkkOxwqFo/view?usp=sharing)
 
