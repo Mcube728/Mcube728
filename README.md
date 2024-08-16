@@ -16,9 +16,6 @@ I'm a computer science Student, currently learning about Cybersecurity.
 
 ![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Explicit-Song-Analysis)
 
-## 🌐 Socials:
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mikhail_Martins)
 
 # 💻 Tech Stack:
 
