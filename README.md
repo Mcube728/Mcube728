@@ -8,7 +8,7 @@ I'm a computer science Student, currently learning about Cybersecurity.
 
 ## Here are some projects I have worked on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Remote-Sensing-Super-Resolution)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Remote-Sensing-Super-Resolution)](https://github.com/Mcube728/Remote-Sensing-Super-Resolution)
 
 [![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=libgen-cli)](https://github.com/Mcube728/libgen-cli)
 
