@@ -8,13 +8,13 @@ I'm a computer science Student, currently learning about Cybersecurity.
 
 ## Here are some projects I have worked on:
 
-![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Remote-Sensing-Super-Resolution)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Remote-Sensing-Super-Resolution)](https://github.com/madushadhanushka/differ)
 
-![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=libgen-cli)
+[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=libgen-cli)](https://github.com/Mcube728/libgen-cli)
 
-![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=web-crawler)
+[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=web-crawler)](https://github.com/Mcube728/web-crawler)
 
-![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Explicit-Song-Analysis)
+[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Explicit-Song-Analysis)](https://github.com/Mcube728/Explicit-Song-Analysis)
 
 
 # 💻 Tech Stack:
