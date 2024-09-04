@@ -46,9 +46,9 @@ I'm a computer science Student, currently learning about Cybersecurity.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mcube728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mcube728&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcube728&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mcube728&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mcube728&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mcube728&theme=github_dark)
 
 ---
 
