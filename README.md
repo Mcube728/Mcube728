@@ -8,13 +8,10 @@ I'm a computer science Student, currently learning about Cybersecurity.
 
 ## Here are some projects I have worked on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Remote-Sensing-Super-Resolution)](https://github.com/Mcube728/Remote-Sensing-Super-Resolution)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Remote-Sensing-Super-Resolution)](https://github.com/Mcube728/Remote-Sensing-Super-Resolution) &emsp; [![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Explicit-Song-Analysis)](https://github.com/Mcube728/Explicit-Song-Analysis)
 
-[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=libgen-cli)](https://github.com/Mcube728/libgen-cli)
+[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=libgen-cli)](https://github.com/Mcube728/libgen-cli) &emsp; [![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Message-Board)](https://github.com/Mcube728/Message-Board)
 
-[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Message-Board)](https://github.com/Mcube728/Message-Board)
-
-[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Explicit-Song-Analysis)](https://github.com/Mcube728/Explicit-Song-Analysis)
 
 
 # 💻 Tech Stack:
