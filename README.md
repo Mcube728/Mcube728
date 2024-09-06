@@ -2,7 +2,7 @@
 
 ![](github-header-image.png)
 
-I'm a computer science Student, currently learning about Full stack development and Cybersecurity.
+I'm a undergraduate computer science student, currently learning about Full stack development and Cybersecurity.
 
 [![](https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white')](https://drive.google.com/file/d/1GpWxC2E6V7td1xlzxwZqKW4KkkOxwqFo/view?usp=sharing)
 
