@@ -10,9 +10,9 @@ I'm a undergraduate computer science student, currently learning about Full stac
 
 ## Here are some projects I have worked on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Remote-Sensing-Super-Resolution)](https://github.com/Mcube728/Remote-Sensing-Super-Resolution) &emsp; [![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Explicit-Song-Analysis)](https://github.com/Mcube728/Explicit-Song-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Remote-Sensing-Super-Resolution&theme=transparent)](https://github.com/Mcube728/Remote-Sensing-Super-Resolution) &emsp; [![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Explicit-Song-Analysis&theme=transparent)](https://github.com/Mcube728/Explicit-Song-Analysis)
 
-[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=libgen-cli)](https://github.com/Mcube728/libgen-cli) &emsp; [![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Message-Board)](https://github.com/Mcube728/Message-Board)
+[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=libgen-cli&theme=transparent)](https://github.com/Mcube728/libgen-cli) &emsp; [![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Message-Board&theme=transparent)](https://github.com/Mcube728/Message-Board)
 
 
 
@@ -32,9 +32,9 @@ I'm a undergraduate computer science student, currently learning about Full stac
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 # 📊 GitHub Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mcube728&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mcube728&theme=transparent)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mcube728&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mcube728&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mcube728&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mcube728&theme=transparent)
 
 ---
 
