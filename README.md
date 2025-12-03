@@ -7,15 +7,6 @@ I'm a undergraduate computer science student, currently learning about Full stac
 [![](https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white')](https://drive.google.com/file/d/1GpWxC2E6V7td1xlzxwZqKW4KkkOxwqFo/view?usp=sharing)
 
 
-
-## Here are some projects I have worked on:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Remote-Sensing-Super-Resolution&theme=transparent)](https://github.com/Mcube728/Remote-Sensing-Super-Resolution) &emsp; [![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Explicit-Song-Analysis&theme=transparent)](https://github.com/Mcube728/Explicit-Song-Analysis)
-
-[![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=libgen-cli&theme=transparent)](https://github.com/Mcube728/libgen-cli) &emsp; [![Project-Card](https://github-readme-stats.vercel.app/api/pin/?username=Mcube728&repo=Message-Board&theme=transparent)](https://github.com/Mcube728/Message-Board)
-
-
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
